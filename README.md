@@ -2,7 +2,7 @@
 
 ## Usage
 
-Screen Shot 2020-10-18 at 5.53.46 PM
+![Front Page Screenshot] (./Screen Shot 2020-10-18 at 5.53.46 PM)
 
 ## Support 
 
@@ -10,4 +10,4 @@ Screen Shot 2020-10-18 at 5.53.46 PM
 
 ## License
 
-    Licenses were not used  for this website/assignment.  
+    Licenses were not used for this website/assignment.  
